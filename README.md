@@ -42,7 +42,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ruby-roy-b2a7a6213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on rubyroy722@gmail.com
+ * Mail me on pankajbisht03@outlook.com
 
 </p>
 
