@@ -21,3 +21,28 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajbisht03&show_icons=true&locale=en&layout=compact" alt="pankajbisht03" /></p>
 
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajbisht03&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajbisht03&&theme=highcontrast" alt="pankajbisht03" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+<img alt="Pankaj Bisht's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pankajbisht03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<br/>
+<br/>
+
+## Contact Me ☎️
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/ruby-roy-b2a7a6213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ * Mail me on rubyroy722@gmail.com
+
+</p>
+
