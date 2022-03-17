@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://pankajbisht03.io)
 <h1 align="center">Hi 👋, I'm Pankaj Bisht</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
@@ -22,6 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajbisht03&show_icons=true&locale=en&layout=compact" alt="pankajbisht03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajbisht03&show_icons=true&locale=en" alt="pankajbisht03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajbisht03&" alt="pankajbisht03" /></p>
