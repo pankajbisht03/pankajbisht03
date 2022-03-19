@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Bisht</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajbisht03&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbisht03" /> </p>
@@ -30,8 +30,16 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
+</p> -->
+ <p align="center" >
+  <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajbisht03&show_icons=true&locale=en&layout=compact" alt="pankajbisht03" /></p>
+<br/>
+<p align="center"><img alt="Pankaj Bisht's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbisht03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
+</p>
+
 
 ## 📊 My Github Stats
 
@@ -53,7 +61,7 @@
 ## Contact Me ☎️
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ruby-roy-b2a7a6213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "linkedin.com/in/pankaj-bisht-6722a21bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on pankajbisht03@outlook.com
 
 </p>
