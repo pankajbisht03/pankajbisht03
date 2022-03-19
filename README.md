@@ -9,10 +9,12 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Web, MERN, Data Structures & Algorithm**
+- 
+
 
 - 📫 How to reach me **pankajbisht03@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
