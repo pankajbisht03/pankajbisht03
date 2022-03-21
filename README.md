@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web, MERN, Data Structures & Algorithm**
 
-- 📫 How to reach me **pankajbisht03@outlook.com**
+- 📫 How to reach me **pankajbishtuk04@gmail.com**
 
 
 <p align="left">
@@ -62,7 +62,7 @@
 <p align="left">
 
 <a href = "linkedin.com/in/pankaj-bisht-6722a21bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on pankajbisht03@outlook.com
+ * Mail me on pankajbishtuk04@gmail.com
 
 </p>
 
