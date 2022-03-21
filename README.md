@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **Web, MERN, Data Structures & Algorithm**
 
-- 📫 How to reach me **pankajbishtuk04@gmail.com**
 
 
 <p align="left">
